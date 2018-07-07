@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">PackStudy</string>
+
+  <string name="course_prompt">Select a class</string>
+  <string-array name="courses_array">
+    <item>CS105</item>
+    <item>CS135</item>
+    <item>CS202</item>
+    <item>CS302</item>
+    <item>CS326</item>
+    <item>CS446</item>
+    <item>CS491</item>
+    <item>IS389</item>
+  </string-array>
+
+  <string name="semester_prompt"></string>
+  <string-array name="semesters_array">
+    <item>Spring2017</item>
+    <item>Summer2017</item>
+  </string-array>
+</resources>
